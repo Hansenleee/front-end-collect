@@ -70,7 +70,7 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 
 
 
-######国外博客
+###### 国外博客
 |名称 |活跃度 | 原创度 | 维护者|其他|
 | ----- | ----- | ------ |----- |------|
 |[Smashing Magazine](http://www.smashingmagazine.com/)|★★★★★|★★★★★| # |业界权威，web 设计很赞|
@@ -140,7 +140,7 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 |叶小钗|[叶小钗](http://www.cnblogs.com/yexiaochai)|#|#|#|#|前端开发|
 |聂微东|[Darren](http://www.cnblogs.com/Darren_code/)|#|#|#|百度移动云|前端开发|
 |当耐特|[iamzhanglei](http://www.cnblogs.com/iamzhanglei/)|#|#|#|#|HTML5实验室作者|
-|教主|[_frank](http://www.cnblogs.com/_franky)|#|#|#|#|又一牛|
+|教主|[frank](http://www.cnblogs.com/_franky)|#|#|#|#|又一牛|
 |typeof|[typeof](http://typeof.net/)|#|#|#|#|又一牛|
 |Gray Zhang|[Gray Zhang](http://www.cnblogs.com/GrayZhang)|#|#|#|#|百度一牛|
 |李松峰|[为之漫笔](http://www.cn-cuckoo.com)|#|#|#|#|高程2等书的译者|
